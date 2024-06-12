@@ -4,8 +4,8 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // Public variables to store the details about the token
-    string public name = "MyToken";
-    string public symbol = "MTK";
+    string public name = "India";
+    string public symbol = "IND";
     uint256 public totalSupply = 0;
 
     // Mapping from address to balance
